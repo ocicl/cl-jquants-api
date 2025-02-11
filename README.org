@@ -1,0 +1,9 @@
+* cl-jquants-api
+
+cl-jquants-api is an open-source library for J-Quants API with Common Lisp
+
+|---------+----------------------------------------------------|
+| source  | git:https://github.com/minisoba/cl-jquants-api.git |
+| commit  | 875a31e                                            |
+| systems | cl-jquants-api                                     |
+|---------+----------------------------------------------------|
