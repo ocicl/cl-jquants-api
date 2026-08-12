@@ -7,3 +7,4 @@ cl-jquants-api is an open-source library for J-Quants API with Common Lisp
 | commit  | d254c2a                                            |
 | systems | cl-jquants-api                                     |
 |---------+----------------------------------------------------|
+ 
